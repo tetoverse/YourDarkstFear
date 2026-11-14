@@ -1,8 +1,8 @@
 {
- "key": "1b922151",
+ "key": "b11aefae",
  "stars": 4,
- "contributions": 102,
- "repos": 15,
+ "contributions": 100,
+ "repos": 14,
  "followers": 0,
  "languages": [
   [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 18,
+    "c": 16,
     "day": 13,
     "today": false
    },
@@ -227,15 +227,6 @@
    "topics": []
   },
   {
-   "name": "tetoverse",
-   "url": "https://github.com/tetoverse/tetoverse",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "RaserNative",
    "url": "https://github.com/tetoverse/RaserNative",
    "text": "",
@@ -290,8 +281,8 @@
    "topics": []
   },
   {
-   "name": "YourDarkstFear",
-   "url": "https://github.com/tetoverse/YourDarkstFear",
+   "name": "tetoverse",
+   "url": "https://github.com/tetoverse/tetoverse",
    "text": "My GitHub profile",
    "fork": false,
    "stars": 0,
